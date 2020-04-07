@@ -12,6 +12,3 @@ print('In Fahrenheit, that is', 9/5*temp+32)
 num1= eval(input('Enter the first number: '))
 num2= eval(input('Enter the Second number: '))
 print('The average of the numbers you entered is', (num1+num2)/2)
-
-
-87
